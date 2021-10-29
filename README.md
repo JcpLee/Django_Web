@@ -1,2 +1,2 @@
 # Django_Web
-this is a webapp that just for individual 
+this is a webapp just for individual 
